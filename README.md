@@ -5,3 +5,5 @@ You can then add details of the adventure and see how many countries you've been
 
 ### `npm run dev`
 ### `npm run server`
+
+Usually running at: [http://localhost:5173/](http://localhost:5173/)
